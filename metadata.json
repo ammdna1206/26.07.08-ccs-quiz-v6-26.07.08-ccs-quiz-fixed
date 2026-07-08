@@ -1,0 +1,6 @@
+{
+  "name": "CCS Generative AI Mock Test",
+  "description": "CCS 生成式 AI 人工智慧核心能力國際認證模擬測驗系統，提供 90 題精準題庫、學習與考照雙模式切換、四大命題大綱落點精準診斷與詳細解析說明。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
